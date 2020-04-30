@@ -6,7 +6,6 @@ nav_order: 0
 ---
 ## Installing
 1. Download the latest release from [here](https://github.com/ToniMacaroni/Scribble/releases) (Scribble-\<version\>.zip)
-2. Make sure you have installed the dependencies listed in the release (you can do this through ModAssistant)
 3. Drop the zip contents into your Beat Saber directory
 
 ## Uninstalling
