@@ -1,6 +1,5 @@
-title: "TrickSaber Docs"
+title: "Scribble Docs"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: false
-logo: "/Resources/Logo.png"
 footer_content: "Copyright &copy; Toni Macaroni 2020"

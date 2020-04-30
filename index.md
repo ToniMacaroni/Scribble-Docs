@@ -2,7 +2,7 @@
 title: Home
 layout: default
 ---
-## Thanks for using TrickSaber
+## Thanks for using Scribble
 
 ![](https://github.com/images/icons/emoji/heart.png)
 
@@ -11,4 +11,4 @@ layout: default
 - [Installation](Installation)
 - [Configuration](Configuration)
 
-[Download](https://github.com/ToniMacaroni/TrickSaber/releases){: .btn .btn-purple .ml-4}
+[Download](https://github.com/ToniMacaroni/Scribble/releases){: .btn .btn-purple .ml-4}
