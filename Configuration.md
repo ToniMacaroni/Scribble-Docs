@@ -11,17 +11,21 @@ nav_order: 0
 
 - LineWidth <span class="variable-type float">float</span>
 ```
-How 𝓽𝓱𝓲𝓬𝓬 is the line
+How 𝓽𝓱𝓲𝓬𝓬 is the line. This is a global width multiplier of all brushes.
 ```
 - PrimaryColor <span class="variable-type string">string</span>
 ```
-The color your left saber draws
+The color your left saber draws.
 ```
 - SecondaryColor <span class="variable-type string">string</span>
 ```
-The color your right saber draws
+The color your right saber draws.
 ```
 - VisibleDuringPlay <span class="variable-type bool">bool</span>
 ```
-Is your drawing visible while you're in a map
+Is your drawing visible while you're in a map.
+```
+- FirstTimeLaunch <span class="variable-type bool">bool</span>
+```
+Shows the the drawing when you start the game with the mod for the first time.
 ```
